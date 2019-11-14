@@ -132,7 +132,7 @@
         </dependency>
         <!-- 测试注释-->
     </dependencies>
-    <!--测试  电饭锅 -->
+    <!--测试  电饭锅但是 -->
     <!--<profiles>
         <profile>
             <id>jdk-1.8</id>
