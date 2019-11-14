@@ -132,6 +132,7 @@
         </dependency>
 
     </dependencies>
+    <!--测试 -->
     <!--<profiles>
         <profile>
             <id>jdk-1.8</id>
